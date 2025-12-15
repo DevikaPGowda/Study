@@ -1,0 +1,2 @@
+The command to initialize the git is "Git init".
+
