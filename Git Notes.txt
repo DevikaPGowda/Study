@@ -7,7 +7,9 @@ git config --global user.email "devikasureha@gmail.com"
 
 git clone <link>
 
-git add . -> staging
-git commit -m "commit message"
-git push
+git add .  -> staging
+git commit -m "commit message"   -> to commit
+git push   -> push to remote
 
+git fetch  -> to compare with remote for syncing
+git pull   -> get the remote data to local 
