@@ -1,2 +1,13 @@
-The command to initialize the git is "Git init".
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+
+git config --global user.name "DevikaPGowda"
+git config --global user.email "devikasureha@gmail.com" 
+
+
+git clone <link>
+
+git add . -> staging
+git commit -m "commit message"
+git push
 
